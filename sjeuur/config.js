@@ -1,9 +1,9 @@
 /**
  * picture naming rules:
- * pc : [name].[ext] ./assets/section1-bg.png
- * pc webp : [name].webp ./assets/section1-bg.webp
- * mobile : [name]_mobile.[ext] ./assets/section1-bg_mobile.png
- * mobile webp : [name]_mobile.webp ./assets/section1-bg_mobile.webp
+ * pc : [name].[ext]
+ * pc webp : [name].webp
+ * mobile : [name]_mobile.[ext]
+ * mobile webp : [name]_mobile.webp
  */
 window.textConfig = {
   section_1: {
