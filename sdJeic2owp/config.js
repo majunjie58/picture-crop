@@ -66,7 +66,7 @@ window.znConfig = {
     batteryTitle: "BATTERY EXPERIENCE",
     batteryText: "7000mAh Mega Battery,<br/>18W Fast Charging",
     batteryNotice:
-      "*Disclaimer:<br/>Data such as battery capacity, battery usage and video playback duration are all<br/>from TECNO Laboratory. Actual data may vary.",
+      '*Disclaimer:<br/>Data such as battery capacity, battery usage and video playback duration are all<br class="pc-only"/>from TECNO Laboratory. Actual data may vary.',
     batteryT1: "Faster and Longer",
     batteryD1:
       "With a large 7000mAh battery, it can endure over 28h continuous <br/>video play. Even after 5 years of use, more than 80% of the <br/>capacity remains. The AI charging system learns your habits. <br/>Its ultra-high cycle life ensures durability.*",
@@ -78,7 +78,7 @@ window.znConfig = {
     displayD1: "Smoother and Sharper Experience",
     displayD2:
       "The display delivers sharper details. <br/>Supports up to 120Hz adaptive refresh rate for smoother <br/>experience when playing games and watching videos.",
-    cpuTitleBlue: "HIGH",
+    cpuTitleBlue: "HIGH ",
     cpuTitle: "PERFORMANCE",
     cpuDesc: "MediaTek Helio <br />G81 Processor",
     cpuT1: "Octa-core high-performance",
@@ -185,7 +185,7 @@ window.znConfig = {
     card5L3: "Translate",
     card6Title: "Up to 256GB+24GB <br/>(16GB Extended RAM)",
     card6Text: "Use it smoothly and store as much as you like.",
-    card7Title: "Infrared Remote Control<br/><br/>",
+    card7Title: 'Infrared <br class="mb-only"/>Remote Control<br/>',
     card7Text: "The mobile phone is the remote control center.",
     phoneImage: "./assets/phone-frame.png",
     microImage: "./assets/phone-camera.png",
